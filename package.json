@@ -26,10 +26,10 @@
 		"test": "node ./node_modules/vscode/bin/test"
 	},
 	"devDependencies": {
-		"typescript": "^3.3.1",
-		"vscode": "^1.1.28",
-		"eslint": "^5.13.0",
-		"@types/node": "^10.12.21",
-		"@types/mocha": "^2.2.42"
+		"typescript": "^3.8.3",
+		"vscode": "^1.1.37",
+		"eslint": "^6.8.0",
+		"@types/node": "^13.13.4",
+		"@types/mocha": "^7.0.2"
 	}
 }
